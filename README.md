@@ -1,7 +1,6 @@
 # Loan-Eligibility-Prediction-System
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange)
-![Data Analytics](https://img.shields.io/badge/Data%20Analytics-Pandas%20%7C%20Matplotlib-green)
+**This project is build in my initial phase of learning of Data analysis and Machine Learning**
+# ![Python](https://img.shields.io/badge/Python-3.8%2B-blue) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange) ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-Pandas%20%7C%20Matplotlib-green)
 ## 📌 Project Overview
 The **Loan Eligibility Prediction System** is a data analytics and machine learning project designed to automate the loan approval process. Financial institutions receive thousands of loan applications daily, and manually evaluating each one is time-consuming and prone to human bias. 
 
